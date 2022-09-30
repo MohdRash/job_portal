@@ -90,7 +90,7 @@
     "react-toastr": "^3.0.0",
     "react-twitter-auth": "0.0.13",
     "reactstrap": "^8.9.0",
-    "recharts": "^2.0.9",
+    "recharts": "^2.1.14",
     "redux": "^4.1.0",
     "redux-form": "^8.3.7",
     "redux-saga": "^1.1.3",
